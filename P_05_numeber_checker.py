@@ -29,4 +29,3 @@ for item in range(0, 2):
         height = num_check("height: ")
         print(height)
 
-
